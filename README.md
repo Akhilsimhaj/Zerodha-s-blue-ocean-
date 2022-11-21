@@ -92,9 +92,18 @@ There are no additional charges for gifting apart from the standard off-market t
 
 
 
+Console Zerodha Pros and Cons
+Pros:
+• Simple to use and has a one-step login process.
+• Its user interface is simplified as compared to the user interface of Zerodha Q (previous version of Zerodha Backoffice)
+• The application is easy to use and thus new traders can also use it with less or no guidance.
+
+Cons:
+• One of the Zerodha console problem is that the reports can be more versatile and accurate.
+• Another Zerodha console issue is the cancellation of referral bonus discourages clients to refer others.
 
 
-
+part 1 zerodha stratgy ends here .....met you soon in part 2 
 
 
 
